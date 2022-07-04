@@ -1,6 +1,6 @@
 # cryptozombies
 
-# Heart Stroke Predictions Model In Production
+
 
 ## NVM :wrench:
 * Node Version Manager to use different version of node.js
